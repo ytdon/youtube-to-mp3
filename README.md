@@ -26,7 +26,7 @@ Save Audio to Cloud
 YTDON offers saving the files to Cloud platforms like Google Drive, Dropbox, etc. you can enjoy your favorite Music any time without any restriction.
 Free Instant Downloads
 
-YTDON offers free conversion of Youtube videos to mp3 files, Our service is fast enough to Convert and Download multiple files at the same time, Don't you believe it? try it now!
+YTDON offers free conversion of Youtube to mp3 files, Our service is fast enough to Convert and Download multiple files at the same time, Don't you believe it? try it now!
 Listen Offline
 
 The most important benefit of using the YTDON converter and downloader is that it allows you to convert and save music from youtube on your device for offline listening.
